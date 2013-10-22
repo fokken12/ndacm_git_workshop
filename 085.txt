@@ -1,0 +1,6 @@
+When you're done editing this file, remember to...
+git commit -a -m "Add a commit message"
+git pull
+git push
+--------------------------
+(Make your edits here, why not a haiku?)
