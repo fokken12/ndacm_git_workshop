@@ -3,4 +3,4 @@ git commit -a -m "Add a commit message"
 git pull
 git push
 --------------------------
-(Make your edits here, why not a haiku?)
+(Make your edits here, why not a haiku? Haikus are lovely.)
