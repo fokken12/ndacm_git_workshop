@@ -3,4 +3,6 @@ git commit -a -m "Add a commit message"
 git pull
 git push
 --------------------------
-(Make your edits here, why not a haiku?)
+Git sure is stellar
+Oh boy do I love git so
+Thank you for teaching
